@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: file3 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\21989\AppData\Local\Temp\RSPB51B.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/file3.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\C语言：MyProjects\入门练习\test3（for循环运用）\file3.c"
+]
+Creating command line "cl.exe @C:\Users\21989\AppData\Local\Temp\RSPB51B.tmp" 
+<h3>Output Window</h3>
+Compiling...
+file3.c
+c:\program files (x86)\microsoft visual studio\vc98\include\eh.h(32) : fatal error C1189: #error :  "eh.h is only for C++!"
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+file3.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1563634349 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\debugging\fileio.cpp
+	<stdio.h>
+	<iostream>
+	<io.h>
+	<fstream>
+	<cstdlib>
+	<string.h>
+	"header.h"
+
+1563518646 d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\debugging\main.cpp
+	<stdio.h>
+	<io.h>
+	<cstdlib>
+	<iostream>
+	"header.h"
+
+1563639729 d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\debugging\header.h
+
+1563641124 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\debugging\main.cpp
+	<stdio.h>
+	<io.h>
+	<cstdlib>
+	<iostream>
+	"header.h"
+
+1563640799 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\debugging\sort.cpp
+	<stdio.h>
+	<io.h>
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"header.h"
+
+1563640791 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\debugging\search.cpp
+	<stdio.h>
+	<io.h>
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"header.h"
+

@@ -1,0 +1,1 @@
+void readf(MAPLINK *H);

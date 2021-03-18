@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1563730567 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\electronicmap\fileio.cpp
+	<stdio.h>
+	<iostream>
+	<io.h>
+	<fstream>
+	<cstdlib>
+	<string.h>
+	"header.h"
+
+1563987077 d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\electronicmap\header.h
+
+1563987458 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\electronicmap\main.cpp
+	<stdio.h>
+	<io.h>
+	<cstdlib>
+	<iostream>
+	"header.h"
+
+1563987885 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\electronicmap\search.cpp
+	<stdio.h>
+	<io.h>
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"header.h"
+
+1563987704 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\electronicmap\sort.cpp
+	<stdio.h>
+	<io.h>
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"header.h"
+
+1563987288 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\electronicmap\update.cpp
+	<stdio.h>
+	<iostream>
+	<io.h>
+	<fstream>
+	<cstdlib>
+	<string.h>
+	"header.h"
+

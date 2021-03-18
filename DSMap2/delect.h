@@ -1,0 +1,1 @@
+void delect(MAPLINK Head);

@@ -1,0 +1,1 @@
+void QListSort(MAPLINK *head,MAPLINK end);

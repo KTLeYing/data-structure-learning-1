@@ -1,0 +1,130 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Important Key - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\21989\AppData\Local\Temp\RSP6E09.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Important Key.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp"
+]
+Creating command line "cl.exe @C:\Users\21989\AppData\Local\Temp\RSP6E09.tmp" 
+<h3>Output Window</h3>
+Compiling...
+Important Key.cpp
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xd2'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xbb'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xa1'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xa2'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xb3'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xa3'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xd3'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xc3'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xb5'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xc4'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xcb'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xb3'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xd0'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xf2'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xb1'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xed'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xb5'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xc4'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xbd'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xe1'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xb9'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xb9'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xb6'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xa8'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xd2'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xe5'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xa1'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xa2'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xb3'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xf5'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xca'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xbc'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xbb'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xaf'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xa1'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xa2'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xb4'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xb4'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xbd'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xa8'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xa3'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xa8'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xbc'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xb8'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xd6'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xd6'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xc7'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xe9'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xbf'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xf6'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xa3'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(1) : error C2018: unknown character '0xa9'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2059: syntax error : 'constant'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xbe'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xd2'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xbb'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xb0'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xe3'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xd3'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xc3'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xd3'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xda'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xb2'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xe9'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xd5'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xd2'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xa1'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xa2'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xc5'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xc5'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xd0'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xf2'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xcb'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xe3'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xb7'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xa8'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xa1'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(2) : error C2018: unknown character '0xbf'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(4) : error C2143: syntax error : missing ';' before '{'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(4) : error C2447: missing function header (old-style formal list?)
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(7) : error C2501: 'ElemType' : missing storage-class or type specifiers
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(11) : error C2143: syntax error : missing ';' before '*'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(11) : error C2501: 'ElemType' : missing storage-class or type specifiers
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(11) : error C2501: 'data' : missing storage-class or type specifiers
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(17) : error C2039: 'data' : is not a member of 'SqList'
+        D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(10) : see declaration of 'SqList'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(17) : error C2061: syntax error : identifier 'ElemType'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(18) : error C2039: 'data' : is not a member of 'SqList'
+        D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(10) : see declaration of 'SqList'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(19) : error C2065: 'exit' : undeclared identifier
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(19) : error C2065: 'OVERFLOW' : undeclared identifier
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(21) : error C2143: syntax error : missing ';' before '}'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(21) : error C2143: syntax error : missing ';' before '}'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(21) : error C2143: syntax error : missing ';' before '}'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(21) : error C2143: syntax error : missing ';' before '}'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(21) : error C2143: syntax error : missing ';' before '}'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(21) : error C2143: syntax error : missing ';' before '}'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(21) : error C2143: syntax error : missing ';' before '}'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(21) : error C2143: syntax error : missing ';' before '}'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(21) : error C2143: syntax error : missing ';' before '}'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(21) : error C2143: syntax error : missing ';' before '}'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(21) : error C2143: syntax error : missing ';' before '}'
+D:\C语言：MyProjects\入门练习\Important Key（重要、易错知识点汇集）\Important Key.cpp(21) : fatal error C1003: error count exceeds 100; stopping compilation
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+Important Key.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

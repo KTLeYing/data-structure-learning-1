@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1567518172 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\employeesystem\main.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<fstream>
+	"header.h"
+
+1566749238 d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\employeesystem\header.h
+
+1567518359 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\employeesystem\delete.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<fstream>
+	"header.h"
+
+1567518332 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\employeesystem\display.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<fstream>
+	"header.h"
+
+1567518339 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\employeesystem\modify.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<fstream>
+	"header.h"
+
+1567518380 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\employeesystem\reset.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<fstream>
+	"header.h"
+
+1566750002 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\employeesystem\save.cpp
+
+1567518346 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\employeesystem\search.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<fstream>
+	"header.h"
+
+1567518372 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\employeesystem\summary.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<fstream>
+	"header.h"
+
+1567518350 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\employeesystem\input.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<fstream>
+	"header.h"
+

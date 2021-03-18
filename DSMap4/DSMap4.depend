@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1563597763 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\dsmap4\fileio.cpp
+	<stdio.h>
+	"header.h"
+
+1563597144 d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\dsmap4\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<iostream>
+
+1563598838 source:d:\c”Ô—‘£∫myprojects\»Î√≈¡∑œ∞\dsmap4\main.cpp
+	<stdio.h>
+	"header.h"
+
